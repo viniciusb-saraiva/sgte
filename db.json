@@ -1,0 +1,103 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "nome": "System",
+      "tipo": 1,
+      "email": "system@ifc.com.br",
+      "senha": "123"
+    },
+    {
+      "nome": "Administrador",
+      "tipo": 2,
+      "email": "administrador@ifc.com.br",
+      "senha": "456",
+      "id": "_m0333U-95U"
+    },
+    {
+      "nome": "Administrador",
+      "tipo": 2,
+      "email": "administrador@ifc.com.br",
+      "senha": "456",
+      "id": "KXjnWRySRu8"
+    },
+    {
+      "nome": "",
+      "tipo": 2,
+      "email": "administrador@ifc.com.br",
+      "senha": "456",
+      "id": "geNG20k47jo"
+    },
+    {
+      "nome": "",
+      "tipo": 2,
+      "email": "administrador@ifc.com.br",
+      "senha": "456",
+      "id": "HiSitwvxJGg"
+    },
+    {
+      "nome": "",
+      "tipo": 2,
+      "email": "administrador@ifc.com.br",
+      "senha": "456",
+      "id": "wZfgOkpqNvE"
+    },
+    {
+      "nome": "",
+      "tipo": 2,
+      "email": "administrador@ifc.com.br",
+      "senha": "456",
+      "id": "j-RXiBfCzyQ"
+    },
+    {
+      "nome": "",
+      "tipo": 2,
+      "email": "administrador@ifc.com.br",
+      "senha": "456",
+      "id": "Lhk_JggPapI"
+    },
+    {
+      "nome": "",
+      "tipo": 2,
+      "email": "administrador@ifc.com.br",
+      "senha": "456",
+      "id": "1qVKxx0Ocg0"
+    },
+    {
+      "nome": "v",
+      "tipo": "1",
+      "email": "a@a.com",
+      "senha": "1212w3",
+      "id": "Jq-Fzz2GWpI"
+    },
+    {
+      "nome": "",
+      "tipo": "1",
+      "email": "",
+      "senha": "",
+      "id": "FRhXUKFXbbg"
+    },
+    {
+      "nome": "DDAD",
+      "tipo": "1",
+      "email": "wedfid",
+      "senha": "wefuo",
+      "id": "usI_lNLMruk"
+    },
+    {
+      "nome": "DDAD",
+      "tipo": "1",
+      "email": "a@a.com",
+      "senha": "wefuo",
+      "id": "D6u_Lyp2l9w"
+    },
+    {
+      "nome": "",
+      "tipo": "1",
+      "email": "",
+      "senha": "",
+      "id": "MpkwSbTjrCU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

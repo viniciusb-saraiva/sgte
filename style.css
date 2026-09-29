@@ -1,0 +1,22 @@
+.formulario {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 300px;
+  width: 300px;
+  background-color: red;
+}
+
+.resultado {
+  display: flex;
+  gap: 10px;
+  height: 200px;
+  width: 100%;
+}
+
+.bloco {
+  background-color: blue;
+  border-radius: 4px;
+  padding: 10px;
+  color: white;
+}
